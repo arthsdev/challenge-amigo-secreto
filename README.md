@@ -1,5 +1,4 @@
-# challenge-amigo-secreto
-# 🎁 Amigo Secreto
+# 🎁 Challenge Amigo Secreto
 
 Este projeto é um **sorteador de Amigo Secreto** onde os usuários podem adicionar nomes à lista e sortear aleatoriamente um participante. É uma aplicação simples feita com **HTML, CSS e JavaScript**.
 
